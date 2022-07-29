@@ -12,7 +12,7 @@ Summario:
 
 ## Documentação.
 Documentação toda escrita no Notion, contendo informações coletadas dos Planetas.   
-[Link - Planetas do Sistema Solar ]([https://transparent-piano-d30.notion.site/Planetas-do-Sistema-Solar-0e8537576d5548059717bb1a7958928a](https://transparent-piano-d30.notion.site/Planetas-do-Sistema-Solar-0e8537576d5548059717bb1a7958928a)).  
+[Link - Planetas do Sistema Solar](https://transparent-piano-d30.notion.site/Planetas-do-Sistema-Solar-0e8537576d5548059717bb1a7958928a).  
 
 ## Tecnologias a serem utilizadas.
 - HTML (Para estruturar o **Layout** das paginas).
